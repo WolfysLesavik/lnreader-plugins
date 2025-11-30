@@ -9,7 +9,7 @@ class Jaomix implements Plugin.PluginBase {
   id = 'jaomix.ru';
   name = 'Jaomix';
   site = 'https://jaomix.ru';
-  version = '1.0.2';
+  version = '1.0.3';
   icon = 'src/ru/jaomix/icon.png';
 
   async popularNovels(
